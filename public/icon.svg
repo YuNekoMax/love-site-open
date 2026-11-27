@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="恋爱日记">
+  <rect width="512" height="512" rx="116" fill="#F2EEE6"/>
+  <g transform="rotate(-3 256 256)">
+    <rect x="118" y="118" width="276" height="276" rx="44" fill="none" stroke="#A3564F" stroke-width="16"/>
+    <text x="256" y="322" font-family="Songti SC, Noto Serif SC, serif" font-size="170" font-weight="600" fill="#A3564F" text-anchor="middle">日</text>
+  </g>
+</svg>

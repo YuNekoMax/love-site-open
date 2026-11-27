@@ -1,0 +1,13 @@
+# 仅作参考：实际部署在 Cloudflare Pages 项目里配置 D1 / KV 和环境变量
+name = "love-site-open"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "love-site-open"
+database_id = "替换成你的数据库 ID"
+
+[[kv_namespaces]]
+binding = "PHOTOS"
+id = "替换成你的 KV namespace ID"

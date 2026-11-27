@@ -1,0 +1,18 @@
+{
+  "name": "恋爱日记",
+  "short_name": "恋爱日记",
+  "description": "两个人的私密记录站",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F2EEE6",
+  "theme_color": "#F2EEE6",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
